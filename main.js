@@ -1,3 +1,3 @@
-import {getUsers} from "./api/data.js";
+import getUsers from "./api/data.js";
 
 getUsers();
